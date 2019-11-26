@@ -1,0 +1,22 @@
+@-ms-viewport{
+  width: device-width;
+}
+
+table{
+    border-collapse: collapse;
+    margin: auto;
+}
+
+th{
+   color: red;   
+}
+
+tr th{
+    text-align: center;
+}
+
+th, td{
+    border: 1px solid black;
+    padding: 0.5rem;
+    text-align: left;
+}
